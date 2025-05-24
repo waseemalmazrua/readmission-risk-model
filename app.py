@@ -19,11 +19,11 @@ app.layout = html.Div([
         dash_table.DataTable(
             data=pd.DataFrame({
                 "Column": [
-                    "ID", "Age", "LOS_days", "Prev_Admissions",
+                     "Age", "LOS_days", "Prev_Admissions",
                     "Comorbidity_Score", "Follow_Up", "Discharge_Type", "Gender"
                 ],
                 "Description": [
-                    "Unique patient ID (integer)",
+
                     "Patient age (integer)",
                     "Length of stay (days)",
                     "Number of previous admissions",
@@ -124,8 +124,8 @@ def update_output(contents):
         df['Prediction'] = df['Prediction'].map({0: "\ud83d\udfe2 No", 1: "\ud83d\udd34 Yes - High Risk"})
 
         return dash_table.DataTable(
-            data=df[["ID", "Age", "LOS_days", "Prev_Admissions", "Comorbidity_Score", "Gender", "Follow_Up", "Discharge_Type", "Prediction"]].to_dict('records'),
-            columns=[{'name': i, 'id': i} for i in ["ID", "Age", "LOS_days", "Prev_Admissions", "Comorbidity_Score", "Gender", "Follow_Up", "Discharge_Type", "Prediction"]],
+            data=df[[ "Age", "LOS_days", "Prev_Admissions", "Comorbidity_Score", "Gender", "Follow_Up", "Discharge_Type", "Prediction"]].to_dict('records'),
+            columns=[{'name': i, 'id': i} for i in [ "Age", "LOS_days", "Prev_Admissions", "Comorbidity_Score", "Gender", "Follow_Up", "Discharge_Type", "Prediction"]],
             style_table={'overflowX': 'auto', 'margin': 'auto', 'width': '95%'},
             style_cell={'textAlign': 'center', 'padding': '10px'},
             style_header={'backgroundColor': '#1f77b4', 'color': 'white'}
