@@ -1,0 +1,101 @@
+Age,LOS_days,Prev_Admissions,Comorbidity_Score,Follow_Up,Discharge_Type,Gender
+39,13,5,3,Yes,Nursing Facility,Male
+44,23,2,4,Yes,Home,Male
+59,26,0,4,No,Nursing Facility,Female
+71,4,4,1,Yes,Nursing Facility,Female
+48,16,3,0,No,Nursing Facility,Female
+82,12,3,0,Yes,Nursing Facility,Male
+67,25,1,2,No,Rehab,Male
+19,21,1,3,No,Rehab,Female
+52,14,1,1,No,Nursing Facility,Male
+61,22,3,3,No,Home,Male
+74,11,0,1,Yes,Nursing Facility,Male
+20,7,3,4,No,Nursing Facility,Male
+42,3,1,2,No,Nursing Facility,Male
+86,5,0,0,Yes,Rehab,Female
+69,7,4,0,No,Home,Male
+32,24,2,3,Yes,Nursing Facility,Male
+26,16,2,4,No,Home,Male
+79,14,1,1,No,Rehab,Female
+72,24,5,4,No,Home,Female
+65,26,5,2,No,Rehab,Female
+21,7,3,0,No,Nursing Facility,Female
+69,10,3,1,Yes,Rehab,Male
+47,20,0,0,Yes,Rehab,Male
+33,5,1,2,No,Home,Male
+40,25,2,2,No,Home,Female
+54,17,0,3,No,Home,Male
+63,17,0,0,Yes,Nursing Facility,Male
+69,17,3,0,Yes,Nursing Facility,Male
+36,5,5,3,Yes,Rehab,Female
+79,9,0,4,No,Nursing Facility,Male
+79,6,0,2,Yes,Home,Male
+49,5,4,0,No,Rehab,Male
+71,21,5,3,Yes,Home,Male
+36,2,2,0,No,Rehab,Female
+51,10,5,3,Yes,Rehab,Male
+81,18,3,0,No,Home,Female
+36,4,4,4,No,Rehab,Female
+90,3,4,1,Yes,Rehab,Male
+61,28,5,2,No,Home,Female
+76,24,0,1,Yes,Nursing Facility,Male
+48,25,1,3,No,Nursing Facility,Male
+23,26,3,3,Yes,Nursing Facility,Male
+80,28,5,4,No,Rehab,Female
+66,1,2,4,Yes,Nursing Facility,Female
+41,1,3,3,Yes,Nursing Facility,Male
+34,20,4,2,Yes,Rehab,Female
+86,29,2,4,Yes,Home,Male
+37,26,2,1,No,Nursing Facility,Male
+79,4,0,4,Yes,Nursing Facility,Male
+57,22,3,3,Yes,Nursing Facility,Male
+82,8,3,1,No,Rehab,Male
+88,1,1,4,No,Home,Male
+74,13,4,2,Yes,Home,Female
+45,27,0,1,No,Home,Female
+26,18,2,2,Yes,Home,Male
+40,17,1,3,Yes,Home,Female
+41,23,5,1,No,Nursing Facility,Male
+44,19,2,1,No,Home,Female
+49,18,5,2,Yes,Nursing Facility,Female
+26,14,5,3,No,Home,Male
+20,4,3,2,Yes,Nursing Facility,Female
+43,16,5,4,Yes,Rehab,Male
+64,6,0,0,No,Rehab,Male
+53,25,4,0,Yes,Rehab,Female
+80,1,5,3,Yes,Nursing Facility,Female
+34,21,2,2,No,Home,Female
+72,11,3,1,Yes,Nursing Facility,Female
+55,30,1,2,Yes,Nursing Facility,Female
+28,25,0,4,No,Rehab,Female
+82,28,4,0,No,Rehab,Female
+84,4,0,0,No,Home,Male
+54,22,4,4,Yes,Nursing Facility,Male
+45,29,2,2,Yes,Home,Female
+64,14,0,0,No,Home,Male
+90,21,1,3,Yes,Rehab,Male
+24,18,3,3,Yes,Nursing Facility,Male
+54,17,1,2,Yes,Home,Male
+57,21,3,2,No,Nursing Facility,Female
+85,29,3,2,Yes,Rehab,Female
+74,14,4,0,No,Nursing Facility,Female
+61,24,2,1,Yes,Nursing Facility,Male
+19,22,0,0,No,Home,Female
+45,23,3,4,Yes,Home,Male
+65,7,3,2,No,Nursing Facility,Female
+28,1,5,2,Yes,Rehab,Female
+66,3,1,2,Yes,Rehab,Female
+58,27,0,1,Yes,Home,Female
+80,19,2,3,Yes,Home,Male
+70,6,3,4,No,Rehab,Female
+48,1,4,3,Yes,Rehab,Male
+90,3,2,3,No,Nursing Facility,Male
+60,19,0,3,No,Rehab,Male
+31,29,2,1,Yes,Home,Female
+57,10,1,0,No,Home,Male
+30,22,4,3,Yes,Home,Male
+36,3,1,2,No,Nursing Facility,Male
+27,17,2,2,Yes,Nursing Facility,Male
+54,7,4,4,No,Nursing Facility,Male
+57,10,0,2,No,Nursing Facility,Female
+85,3,1,3,No,Rehab,Male
